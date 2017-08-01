@@ -9,12 +9,12 @@ es.txt-Spansih Strings (Laritza,Victor)
 
 ja.txt-Japense Strings(Tatsumi,Keiko)
 
-vi.txt-Vietmense Strings (Lan le)
+vi.txt-Vietnamese Strings (Lan Le)
 
 Zh_cn-Chinese Simplified( Zhirong)
 
 Zh_tw-Chinese Traditional (Zhirong)
 
-Other language are on the way.Any assistance contact lan le,Sathish.
+Other languages are on the way.  Any assistance contact Lan Le,Sathish.
 
 Thanks to the Contributors!!
