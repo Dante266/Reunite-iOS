@@ -301,7 +301,7 @@
 "No user with the email address was found"="電子メールアドレスを持つユーザーは見つかりませんでした";
 "Invalid email Address"="無効のメールアドレス";
 "User already exists with Provided email Address"="ユーザーは既に提供された電子メールアドレスで存在します";
-"Invalid Email address"="Invalid Email address";
+"Invalid Email address"="無効のメールアドレス";
 "Password must be 8-16 length,Have Uppercase & Lowercase & Number"="Password must be 8-16 length,Have Uppercase & Lowercase & Number";
 "Unable to register. Please try again or contact us in the About page." ="Unable to register. Please try again or contact us in the About page.";
 "User account is inactive; user must confirm email address"="User account is inactive; user must confirm email address";
