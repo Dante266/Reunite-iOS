@@ -302,15 +302,15 @@
 "Invalid email Address"="無効のメールアドレス";
 "User already exists with Provided email Address"="ユーザーは既に提供された電子メールアドレスで存在します";
 "Invalid Email address"="無効のメールアドレス";
-"Password must be 8-16 length,Have Uppercase & Lowercase & Number"="Password must be 8-16 length,Have Uppercase & Lowercase & Number";
-"Unable to register. Please try again or contact us in the About page." ="Unable to register. Please try again or contact us in the About page.";
-"User account is inactive; user must confirm email address"="User account is inactive; user must confirm email address";
-"Exceeded authentication failure limit"="Exceeded authentication failure limit";
-"Bad Username and Password"="Bad Username and Password";
-"Invalid confirmation code"="Invalid confirmation code";
-"Unknown name"="Unknown name";
-": Online"=": Online";
-": Offline"=": Offline";
-"Unable to Activate"="Unable to Activate";
-"This app does not have access to your camera.You can enable access in Privacy settings.Settings>Privacy>Camera"="This app does not have access to your camera.You can enable access in Privacy settings.Settings>Privacy>Camera";
+"Password must be 8-16 length,Have Uppercase & Lowercase & Number"="パスワードは8-16の長さでなければなりません。大文字と小文字および数字があります。";
+"Unable to register. Please try again or contact us in the About page." ="登録できません。 もう一度お試しください またはこのページについてお問い合わせください.";
+"User account is inactive; user must confirm email address"="ユーザーアカウントは非アクティブです。 ユーザーは電子メールアドレスを確認する必要があります";
+"Exceeded authentication failure limit"="認証失敗の上限を超えました";
+"Bad Username and Password"="悪いユーザー名とパスワード";
+"Invalid confirmation code"="無効な確認コード";
+"Unknown name"="不明な名前";
+": Online"=": オンライン";
+": Offline"=": オフライン";
+"Unable to Activate"="アクティブできません";
+"This app does not have access to your camera.You can enable access in Privacy settings.Settings>Privacy>Camera"="このアプリはあなたのカメラにアクセスできません。あなたはプライバシー設定でアクセスを有効にすることができます。セッティング>プライバシー>カメラ";
 
