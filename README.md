@@ -1,5 +1,5 @@
 # Reunite-iOS
-Currently Reunite 6.5 version in the App store with supports Spanish and Japanese.
+Currently Reunite 6.6 version in the App store which supports Spanish and Japanese,Vietnamese and Chinese (Simplified & Traditional).
 
 Chinese Traditional and Chinese Simplified will be available in upcoming Release.(Reunite 6.6 version).
 
