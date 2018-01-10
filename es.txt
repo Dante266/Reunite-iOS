@@ -13,10 +13,16 @@
 "Updated at %@ (%@)"="Actualizado en %@ (%@)";
 "Just Now"="Justo ahora";
 "About"="Acerca de";
+"Would you like to report an Animal or Person"="¿Te gustaría reportar un Animal o Persona?";
+"Person"="Persona";
+"Animal"="Animal";
+"Consider NCMEC(www.missingkids.com),If you would like to report under age 18."="Considere NCMEC (www.missingkids.com), si desea informar menos de 18 años.";
+"Proceed"="Proceder";
 "%@ is an R&D project of the Lister Hill National Center for Biomedical Communications, a division of the National Library of Medicine, part of the National Institutes of Health."="%@® Es un proyecto de Investigacion y Desarrollo del Centro Lister Hill para Comunicaciones Biomédicas que forma parte de los Institutos Nacionales de Salud";
 "Burden Statement: %@"="Declaración: %@";
 "%@, %@, and the LOST PERSON FINDER Design are trademarks of the U.S. Department of Health & Human Services (HHS)."="%@, %@®, y LOST PERSON FINDER® son marcas registradas del Departamento de Salud y Servicios Humanos de EEUU (HHS).";
 "Privacy"="Privacidad";
+"Email"="Email";
 "Burden"="Declaración";
 "Updating Event List..."="Actualizando la Lista de Eventos...";
 "Enter your %@ credentials and tap on the Log In button. To register, tap on the Register button"="Ingrese sus %@ credenciales o toque el botón de Ingreso. Para registrarse, toque el botón de Registro";
@@ -75,7 +81,7 @@
 "Deceased"="Fallecido";
 "Unknown"="Desconocido";
 "Found (no status)"="Encontrado (estado no reportado)";
-"Complex"="Complejo";
+"Other"="Otro";
 "Male"="Masculino";
 "Female"="Femenino";
 "Adult"="Adulto";
@@ -108,7 +114,7 @@
 "INFORMATION"="INFORMACION";
 "EVENT"="EVENTO";
 "LOCATION"="LOCALIZACION";
-"NOTE"="NOTA";
+"NOTE"="Información Adicional";
 "No Image"="No hay imagen";
 "No Location Included"="No Incluye Ubicación";
 "Obtaining GPS Coordinates..."="Obteniendo Coordenadas GPS...";
@@ -276,7 +282,7 @@
 "Report from %@: %@ %@, %@"="Informe de %@: %@ %@, %@";
 "Comment #%i Image"="Imagen #%i Comentario";
 "* This page is accessible through About section"="* Esta página es accesible a través de la sección Acerca De";
-"You are about to delete this record from %@ server"="Estás a punto de eliminar este registro de %@ servidor";
+"You are about to delete this record from PL server"="Estás a punto de eliminar este registro de PL servidor";
 "Unspecified"="Sin especificar";
 "Searching for Faces"="Buscando Caras";
 "You are now logged out"="Ahora estás desconectado";
@@ -288,11 +294,6 @@
 "The record has been deleted"="el registro se ha suprimido";
 "Successfully Deleted"="Se han eliminado las";
 "Save draft"="Guardar borrador";
-"NSCameraUsageDescription"="ReUnite requiere acceso a la camara";
-"NSLocationAlwaysUsageDescription"=" Estamos usando su ubicacion";
-"NSLocationWhenInUseUsageDescription"=" Estamos usando su ubicacion";
-"NSPhotoLibraryUsageDescription"="ReUnite require acceso a las fotos";
-"Internet Appears Offline"="El Internet esta fuera de linea";
 "Invalid UUID"="El UUID es Inválido";
 "Invalid Event"="Evento Inválido";
 "Token Cannot access Event"="No hay acceso al evento";
@@ -320,4 +321,4 @@
 ": Offline"=": Fuera de Linea";
 "Unable to Activate"="La Activación no es Posible";
 "This app does not have access to your camera.You can enable access in Privacy settings.Settings>Privacy>Camera"="Esta applicación no tiene acceso a su cámara. El acceso a la cámara se activa en el menú de los Ajustes del dispositivo.";
-
+"Your Account is Activated"="";
