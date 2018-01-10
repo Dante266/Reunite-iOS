@@ -13,6 +13,11 @@
 "Updated at %@ (%@)"="%@ (%@) に更新";
 "Just Now"="ちょうど今";
 "About"="概要";
+"Would you like to report an Animal or Person"="あなたは動物または人物を報告しますか？";
+"Person"="人";
+"Animal"="動物";
+"Consider NCMEC(www.missingkids.com),If you would like to report under age 18."="NCMEC（www.missingkids.com）をご検討ください。あなたが18歳未満で報告したい場合。";
+"Proceed"="続行する";
 "%@ is an R&D project of the Lister Hill National Center for Biomedical Communications, a division of the National Library of Medicine, part of the National Institutes of Health."="%@® は、the Lister Hill National Center for Biomedical Communications(LHNCBC)のR&Dプロジェクトで、LHNCBCは、the National Institutes of Health(NIH)に属しているthe National Library of Medicine(NLM)の１部門です。";
 "%@, %@, and the LOST PERSON FINDER Design are trademarks of the U.S. Department of Health & Human Services (HHS)."="%@, %@®, and the LOST PERSON FINDER®のデザインは米国保健福祉省(HHS)の登録商標です。";
 "Privacy"="プライバシー";
@@ -74,7 +79,7 @@
 "Deceased"="死亡";
 "Unknown"="不明";
 "Found (no status)"="見つかりました (状態不明)";
-"Complex"="コンプレックス";
+"Other"="その他";
 "Unknown"="不明";
 "Male"="男性";
 "Female"="女性";
@@ -101,13 +106,14 @@
 "Please identify person to report"="報告したい人を同定してください";
 "Locate The Face"="顔を示してください";
 "Please move and resize the red rectangle to cover the reportee's face"="報告される人の顔を赤い四角の枠を動かしサイズを調整してください。";
+"Email"="Eメール";
 "Crop"="不要部分削除";
 "Done"="終了";
 "Redo"="再度";
 "INFORMATION"="情報";
 "EVENT"="イベント";
 "LOCATION"="位置";
-"NOTE"="注";
+"NOTE"="追加情報";
 "No Image"="イメージ無し";
 "No Location Included"="位置情報は含まれていません";
 "Obtaining GPS Coordinates..."="GPSの経緯を取得中です";
@@ -270,7 +276,7 @@
 "Report from %@: %@ %@, %@"="%@からの報告: %@ %@, %@";
 "Comment #%i Image"="#%i イメージのコメント";
 "* This page is accessible through About section"="*このページは概要セクションからアクセスできます";
-"You are about to delete this record from %@ server"="あなたはこのレコードを%@サーバーから削除しようとしています";
+"You are about to delete this record from PL server"="あなたはこのレコードをPLサーバーから削除しようとしています";
 "Unspecified"="特定できません";
 "Searching for Faces"="顔を検索します";
 "You are now logged out"="あなたは今、ログアウトしています。";
@@ -281,10 +287,6 @@
 "The record has been deleted"="そのレコードは削除されました";
 "Successfully Deleted"="削除成功";
 "Save draft"="ドラフト保存";
-"NSCameraUsageDescription"="Reuniteは”カメラ”にアクセスしたがっています";
-"NSLocationAlwaysUsageDescription"="あなたの位置情報を用います";
-"NSLocationWhenInUseUsageDescription"="あなたの位置情報を用います";
-"NSPhotoLibraryUsageDescription"="Reuniteは写真にアクセスしたがっています";
 "Internet Appears Offline"="インターネットがオフラインで表示される";
 "Invalid UUID"=" UUID 無効";
 "Invalid Event"="イベント無効";
@@ -299,12 +301,9 @@
 "Event closed to Reporting"="イベントはレポーティングで終了しました";
 "Cannot Revise Expired Record"="期限切れのレコードを改訂することはできません";
 "No user with the email address was found"="電子メールアドレスを持つユーザーは見つかりませんでした";
+"User account is inactive; user must confirm email address"="ユーザーアカウントは非アクティブです。 ユーザーは電子メールアドレスを確認する必要があります";
 "Invalid email Address"="無効のメールアドレス";
 "User already exists with Provided email Address"="ユーザーは既に提供された電子メールアドレスで存在します";
-"Invalid Email address"="無効のメールアドレス";
-"Password must be 8-16 length,Have Uppercase & Lowercase & Number"="パスワードは8-16の長さでなければなりません。大文字と小文字および数字があります。";
-"Unable to register. Please try again or contact us in the About page." ="登録できません。 もう一度お試しください またはこのページについてお問い合わせください.";
-"User account is inactive; user must confirm email address"="ユーザーアカウントは非アクティブです。 ユーザーは電子メールアドレスを確認する必要があります";
 "Exceeded authentication failure limit"="認証失敗の上限を超えました";
 "Bad Username and Password"="悪いユーザー名とパスワード";
 "Invalid confirmation code"="無効な確認コード";
@@ -313,4 +312,4 @@
 ": Offline"=": オフライン";
 "Unable to Activate"="アクティブできません";
 "This app does not have access to your camera.You can enable access in Privacy settings.Settings>Privacy>Camera"="このアプリはあなたのカメラにアクセスできません。あなたはプライバシー設定でアクセスを有効にすることができます。セッティング>プライバシー>カメラ";
-
+"Your Account is Activated"="あなたのアカウントは有効です";
