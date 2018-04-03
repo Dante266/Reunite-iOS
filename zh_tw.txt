@@ -320,7 +320,7 @@
 "Unable to Activate"="無法激活";
 "This app does not have access to your camera.You can enable access in Privacy settings.Settings>Privacy>Camera"="此應用程序沒有使用您相機的權限。您可以賦予此權限，步驟：設置>隱私>照相機";
 "Your Account is Activated"="您的帳戶已激活";
-"What would you like to Report"="妳想報告什麽？";
+"What would you like to Report"="你想報告什麽？";
 "Spam"="垃圾郵件";
 "Sexually Explicit"="色情";
 "Hate Speech"="仇恨言論";
