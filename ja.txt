@@ -313,3 +313,11 @@
 "Unable to Activate"="アクティブできません";
 "This app does not have access to your camera.You can enable access in Privacy settings.Settings>Privacy>Camera"="このアプリはあなたのカメラにアクセスできません。あなたはプライバシー設定でアクセスを有効にすることができます。セッティング>プライバシー>カメラ";
 "Your Account is Activated"="あなたのアカウントは有効です";
+"What would you like to Report"="";
+"Spam"="";
+"Sexually Explicit"="";
+"Hate Speech"="";
+"Violence"="";
+"Something Else"="";
+"Only Pets"="";
+"Buddy Number"="";
