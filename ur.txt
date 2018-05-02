@@ -323,4 +323,4 @@
 "Only Pets"="صرف پالتو جانور"; 
 "Buddy Number"="دوست شناختی نمبر"; 
 "Goto safari"="سفاری پر جائیں";
-"Consider NCMEC(www.missingkids.com),If you would like to report under age 18."="";
+"Consider NCMEC(www.missingkids.com),If you would like to report under age 18."="NCMEC (www.missingkids.com) پر غور کریں، اگر آپ 18 سال سے کم عمر کی رپورٹ کرنا چاہتے ہیں";
