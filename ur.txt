@@ -322,5 +322,5 @@
 "Something Else"="اس کے علاوہ کچھ اور"; 
 "Only Pets"="صرف پالتو جانور"; 
 "Buddy Number"="دوست شناختی نمبر"; 
-"Goto safari"="";
+"Goto safari"="سفاری پر جائیں";
 "Consider NCMEC(www.missingkids.com),If you would like to report under age 18."="";
