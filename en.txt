@@ -21,6 +21,7 @@
 "%@ is an R&D project of the Lister Hill National Center for Biomedical Communications, a division of the National Library of Medicine, part of the National Institutes of Health."="%@® is an R&D project of the Lister Hill National Center for Biomedical Communications, a division of the National Library of Medicine, part of the National Institutes of Health.";
 "%@, %@, and the LOST PERSON FINDER Design are trademarks of the U.S. Department of Health & Human Services (HHS)."="%@®, %@®, and the LOST PERSON FINDER® Design are trademarks of the U.S. Department of Health & Human Services (HHS).";
 "Privacy"="Privacy";
+"Email"="Email";
 "Burden"="Burden";
 "Burden Statement: %@"="Burden Statement: %@";
 "Updating Event List..."="Updating Event List...";
@@ -31,6 +32,7 @@
 "STRING_BURDEN_STATEMENT"="Public reporting burden for this collection of information is estimated to average 3 minutes per response. This estimate includes the time for reviewing instructions, gathering, and entering  data. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden, to: NIH, Project Clearance Branch, 6705 Rockledge Drive, MSC 7974, Bethesda, MD 20892-7974, ATTN: PRA (0925-0612). Do not return the completed form to this address";
 "Burden & Privacy"="Burden & Privacy";
 "Burden Statement"="Burden Statement";
+"Privacy Statement"="Privacy Statement";
 "STRING_PRIVACY_STATEMENT"="The U.S. National Library of Medicine (NLM), part of the U.S. Department of Health and Human Services, has in its mission the development of communication systems technology to improve the delivery of health information. The Reunite app is designed to speed uploading necessary personal information about missing (and found) people to NLM's People Locator (PL) service available at https://pl.nlm.nih.gov. This service being provided for the explicit purpose of assisting in post-disaster family reunification as well as studying the utility of such tools in responding to disasters. More information on the PL service and the Lost Person Finder Project can be found at http://lpf.nlm.nih.gov\n\nNote: \n  • Submission of information using this app is voluntary.\n  • All submitted information may be made publicly available.\n  • Data stored using this tool may not be moderated and could be searchable by all visitors to NLM's PL Web site.\n  • Data stored within the app is not encrypted at this time.\n  • The user of this app must have a PL service account to upload information about missing or found people.\n  • No PL login is necessary to search the site.\n  • Information reported on an individual and sender’s provided contact information may be disseminated to other Government agencies or other institutions assisting the reunification efforts after any disaster where U.S. Government relief efforts are being provided.\n  • For missing person data provided following a disaster: If you hear from the person you are concerned about, please follow instructions at the PL Web Site to update their status.\n  • The application does not track user location\n  • User location is detected on explicit user action to aid address lookup";
 "Review This App"="Review This App";
 "GLOBAL_KEY_SETTINGS_FACE_DETECTION" ="Face Detection";
@@ -105,6 +107,7 @@
 "Please identify person to report"="Please identify person to report";
 "Locate The Face"="Locate The Face";
 "Please move and resize the red rectangle to cover the reportee's face"="Please move and resize the red rectangle to cover the reportee's face";
+"Remove"="Remove";
 "Crop"="Crop";
 "Done"="Done";
 "Redo"="Redo";
@@ -134,21 +137,23 @@
 "Standard"="Standard";
 "Satellite"="Satellite";
 "Hybrid"="Hybrid";
-"IMAGE"="IMAGE";
+"Uploading..."="Uploading...";
 "The record has been saved in the outbox and will get uploaded to the server when the Internet connectivity has been restored"="The record has been saved in the outbox and will get uploaded to the server when the Internet connectivity has been restored";
+"No Connection"="No Connection";
 "Fetching the latest record.."="Fetching the latest record..";
 "GPS reported by the user"="GPS reported by the user";
 "Confirm"="Confirm";
 "Submit"="Submit";
 "Unable to Upload"="Unable to Upload";
 "Successfully Reported"="Successfully Reported";
-"Saved"="Saved";
 "The record is added onto your device. To view, tap Report from the Home screen."="The record is added onto your device. To view, tap Report from the Home screen.";
+"Saved"="Saved";
 "Thank you for your report"="Thank you for your report";
 "Please enter the reason"="Please enter the reason";
 "Record removed"="Record removed";
 "If you reported the person, you may delete it from the %@ server."="If you reported the person, you may delete it from the %@ server.";
 "No"="No";
+"IMAGE"="IMAGE";
 "Remove from server"="Remove from server";
 "Delete record"="Delete record";
 "KEY_AGE_MAXIMUM"="Maximum Age";
@@ -191,6 +196,10 @@
 "Please enable your phone's Location Services. This can be located in Settings > Privacy > Location Services"="Please enable your phone's Location Services. This can be located in Settings > Privacy > Location Services";
 "Uploading..."="Uploading...";
 "No Connection"="No Connection";
+"Please allow this application to access your Location Services. This can be located in Settings > Privacy > Location Services"="Por favor, permita que esta aplicación pueda acceder a sus servicios de localización . Esto puede ser configurado en Ajustes> Privacidad> Localización";
+"Location Services Not Allowed"="Location Services Not Allowed";
+"Location Services Restricted"="Location Services Restricted";
+"The record has been saved in the outbox and will get uploaded to the server when the Internet connectivity has been restored"="The record has been saved in the outbox and will get uploaded to the server when the Internet connectivity has been restored";
 "Valid Age is between 0 to 120"="Valid Age is between 0 to 120";
 "Invalid Age"="Invalid Age";
 "Invalid Age Range"="Invalid Age Range";
@@ -215,6 +224,7 @@
 "Please check your e-mail for further instructions"="Please check your e-mail for further instructions";
 "Unable to Update Event List"="Unable to Update Event List";
 "Unable To Register"="Unable To Register";
+"Locating your location..."="Localización de su ubicación";
 "Thank you for registering. An e-mail with an activation link will be sent to you shortly. Once you activate your account, you may log in through the app."="Thank you for registering. An e-mail with an activation link will be sent to you shortly. Once you activate your account, you may log in through the app.";
 "Unable To Log In"="Unable To Log In";
 "Forgot Password"="Forgot Password";
@@ -229,7 +239,6 @@
 "Re-Enter"="Re-Enter";
 "Username"="Username";
 "Password"="Password";
-"Email"="Email";
 "CREDENTIALS"="CREDENTIALS";
 "Invalid Email Address"="Invalid Email Address";
 "Please enter a valid email address"="Please enter a valid email address";
@@ -283,6 +292,7 @@
 "Success"="Success";
 "Privacy Statement"="Privacy Statement";
 "insufficient permission to revise this record"="insufficient permission to revise this record";
+"You are about to delete this record from your device"="You are about to delete this record from your device";
 "If you reported the person, you may delete it from the People Locator server."="If you reported the person, you may delete it from the People Locator server.";
 "The record has been deleted"="The record has been deleted";
 "Successfully Deleted"="Successfully Deleted";
@@ -316,3 +326,11 @@
 "Unable to Activate"="Unable to Activate";
 "This app does not have access to your camera.You can enable access in Privacy settings.Settings>Privacy>Camera"="This app does not have access to your camera.You can enable access in Privacy settings.Settings>Privacy>Camera";
 "Your Account is Activated"="Your Account is Activated";
+"What would you like to Report"="What would you like to Report";
+"Spam"="Spam";
+"Sexually Explicit"="Sexually Explicit";
+"Hate Speech"="Hate Speech";
+"Violence"="Violence";
+"Something Else"="Something Else";
+"Only Pets"="Only Pets";
+"Buddy Number"="Buddy Number";
