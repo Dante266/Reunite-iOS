@@ -19,11 +19,11 @@
 "Consider NCMEC(www.missingkids.com),If you would like to report under age 18."="Considere NCMEC (www.missingkids.com), si desea informar menos de 18 años.";
 "Proceed"="Proceder";
 "%@ is an R&D project of the Lister Hill National Center for Biomedical Communications, a division of the National Library of Medicine, part of the National Institutes of Health."="%@® Es un proyecto de Investigacion y Desarrollo del Centro Lister Hill para Comunicaciones Biomédicas que forma parte de los Institutos Nacionales de Salud";
-"Burden Statement: %@"="Declaración: %@";
 "%@, %@, and the LOST PERSON FINDER Design are trademarks of the U.S. Department of Health & Human Services (HHS)."="%@, %@®, y LOST PERSON FINDER® son marcas registradas del Departamento de Salud y Servicios Humanos de EEUU (HHS).";
 "Privacy"="Privacidad";
 "Email"="Email";
 "Burden"="Declaración";
+"Burden Statement: %@"="Declaración: %@";
 "Updating Event List..."="Actualizando la Lista de Eventos...";
 "Enter your %@ credentials and tap on the Log In button. To register, tap on the Register button"="Ingrese sus %@ credenciales o toque el botón de Ingreso. Para registrarse, toque el botón de Registro";
 "Log In"="Ingresar";
@@ -147,6 +147,7 @@
 "Unable to Upload"="No se puede subir";
 "Successfully Reported"="Entrada Exitosa"; // or “Exitosamente Reportado”
 "The record is added onto your device. To view, tap Report from the Home screen."="El registro fue agregado a su dispositivo. Para verlo, presione el Menú de Informes en la Pantalla Inicial";
+"Saved"="Guardado";
 "Thank you for your report"="Gracias por su informe";
 "Please enter the reason"="Por favor escriba la razón";
 "Record removed"="Registro removido";
@@ -188,15 +189,17 @@
 "Unpinned Map"="Mapa sin marca";
 "Please long press the map to drop a pin on the desired location, in order to obtain the address."="Por favor haga presión continua sobre el mapa para marcar la ubicación deseada para obtener la dirección";
 "Locating your location…"="Encontrando …su Ubicación";
-"Please allow this application to access your Location Services. This can be located in Settings > Privacy > Location Services"="Por favor, permita que esta aplicación pueda acceder a sus servicios de localización . Esto puede ser configurado en Ajustes> Privacidad> Localización";
-"Location Services Not Allowed"="Servicios de localización no permitidos";
-"Location Services Restricted"="Servicios de  Ubicación restringidos";
+"Location Services Restricted"="Location Services Restricted";
 "Your Location Services is Restricted. Restrictions settings can be located in Settings > General > Restriction > Location Services"="Su servicio de localización están restringido. La configuración de restricciones está ubicada en Ajustes> General> Restricción > Servicios de Localización";
+"You are about to delete this record from your device"="You are about to delete this record from your device";
 "Location Services Disabled"="Servicios de Localización Desactivados";
 "Please enable your phone's Location Services. This can be located in Settings > Privacy > Location Services"="Por favor active los Servicios de Localización de su dispositivo. Esto se encuentra bajo el menú de Ajustes > Privacidad > Servicios de Localización";
 "Uploading..."="Subiendo...";
-"The record has been saved in the outbox and will get uploaded to the server when the Internet connectivity has been restored"="El registro ha sido guardado en la bandeja de salida y será enviado al servidor cuando se restablezca la conexión de Internet";
 "No Connection"="Sin Conexión";
+"Please allow this application to access your Location Services. This can be located in Settings > Privacy > Location Services"="Por favor, permita que esta aplicación pueda acceder a sus servicios de localización . Esto puede ser configurado en Ajustes> Privacidad> Localización";
+"Location Services Not Allowed"="Servicios de localización no permitidos";
+"Location Services Restricted"="Servicios de  Ubicación restringidos";
+"The record has been saved in the outbox and will get uploaded to the server when the Internet connectivity has been restored"="El registro ha sido guardado en la bandeja de salida y será enviado al servidor cuando se restablezca la conexión de Internet";
 "Valid Age is between 0 to 120"="Edad válida es entre 0 y 120";
 "Invalid Age"="Edad Inválida";
 "Invalid Age Range"="Rango de edad no válido";
@@ -213,6 +216,7 @@
 "Empty Username Field"="El campo Nombre de usuario está vacío";
 "Empty Password Field"="Campo de contraseña está vacío";
 "Try Again"="Inténtalo de nuevo";
+"Agree"="De acuerdo";
 "Logging In..."="Iniciar sesión...";
 "Logging Out..."="Saliendo de tu cuenta...";
 "You are now logged in as %@"="Ahora está conectado como %@";
@@ -226,7 +230,6 @@
 "Forgot Password"="Olvido contraseña";
 " Logged in as %@"=" Conectado como %@";
 " Login"=" Iniciar sesión";
-"Agree"="De acuerdo";
 "STRING_PASSWORD_GUIDE"="Las contraseñas deben cumplir con las siguientes reglas :\n1. La longitud mínima de la contraseña es de 8 caracteres.\n2 . La longitud máxima de la contraseña es de 16 caracteres.\n3. Debe tener al menos un carácter en mayúscula .\n4. Debe tener al menos un carácter en minúsculas .\n5. Debe tener al menos un número ( 0-9 ) .\n6. La contraseña no puede contener su nombre de usuario.";
 "USER INFORMATION"="Información del usuario";
 "First Name"="Nombre de pila";
@@ -294,6 +297,7 @@
 "The record has been deleted"="el registro se ha suprimido";
 "Successfully Deleted"="Se han eliminado las";
 "Save draft"="Guardar borrador";
+"Internet Appears Offline"="Internet Appears Offline";
 "Invalid UUID"="El UUID es Inválido";
 "Invalid Event"="Evento Inválido";
 "Token Cannot access Event"="No hay acceso al evento";
