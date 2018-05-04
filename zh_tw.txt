@@ -1,6 +1,4 @@
 "Login"="登錄";
-" Login"="登錄";
-"Agree"="同意";
 "...For Family Reunification"="...家庭團聚";
 "Change Event "="更改事件";
 "Selected Event"="所選事件";
@@ -23,6 +21,7 @@
 "%@ is an R&D project of the Lister Hill National Center for Biomedical Communications, a division of the National Library of Medicine, part of the National Institutes of Health."="%@ is an R&D project of the Lister Hill National Center for Biomedical Communications, a division of the National Library of Medicine, part of the National Institutes of Health.";
 "%@, %@, and the LOST PERSON FINDER Design are trademarks of the U.S. Department of Health & Human Services (HHS)."="%@, %@, and the LOST PERSON FINDER Design are trademarks of the U.S. Department of Health & Human Services (HHS).";
 "Privacy"="隱私";
+"Email"="Email";
 "Burden"="責任";
 "Burden Statement: %@"="責任聲明: %@";
 "Updating Event List..."="正在更新事件列表...";
@@ -33,6 +32,7 @@
 "STRING_BURDEN_STATEMENT"="公眾從輸入信息開始到完成提交報告，大約需要三分鐘。這三分鐘裏，包括了查看指令，收集和輸入數據所需的時間。除非標有美國行政管理和預算局(OMB)的有效編號，任何部門不得組織，或資助搜集此類信息，任何個人也無須而為。如果妳有任何有關提交報告所需時間，或者任何有關搜集信息的建議，請送:NIH, Project Clearance Branch, 6705 Rockledge Drive, MSC 7974, Bethesda, MD 20892-7974, ATTN: PRA (0925-0612).請不要將填妥的表格寄回上述地址.";
 "Burden & Privacy"="責任與隱私";
 "Burden Statement"="責任聲明";
+"Privacy Statement"="隱私聲明";
 "STRING_PRIVACY_STATEMENT"="美國國家醫學圖書館(NLM)，隸屬美國衛生和人類服務部，其使命在於發展通信系統技術，改善健康信息的傳遞。ReUnite應用程序，旨在通過網址https://pl.nlm.nih.gov上NLM的People Locator(PL)服務，快速傳遞有關失蹤（和尋獲)人員所需的信息。本項服務的目的，旨在幫助災害後家庭迅速團聚，以及研究此類工具在應對災害方面的效用。更多有關PL服務和Lost Person Finder項目的信息，請訪問http //lpf.nlm.nih.gov。　註意:使用本應用程序提交信息，是自願的。";
 "Review This App"="審查本應用程序";
 "GLOBAL_KEY_SETTINGS_FACE_DETECTION" ="臉部檢測";
@@ -82,7 +82,6 @@
 "Unknown"="未知";
 "Found (no status)"="找到（無狀況）";
 "Other"="其他";
-"Unknown"="未知";
 "Male"="男";
 "Female"="女";
 "Adult"="成人";
@@ -140,6 +139,7 @@
 "Hybrid"="混合";
 "IMAGE"="圖像";
 "The record has been saved in the outbox and will get uploaded to the server when the Internet connectivity has been restored"="記錄已保存在發件箱中，在互聯網連接恢復後將上傳到服務器";
+"No Connection"="沒有連接";
 "Fetching the latest record.."="獲取最新的記錄。";
 "GPS reported by the user"="用戶報告的GPS位置";
 "Confirm"="確認";
@@ -153,6 +153,7 @@
 "Record removed"="記錄已刪除";
 "If you reported the person, you may delete it from the %@ server."="如果您報告了此人，您可以從％@服務器中刪除它。";
 "No"="否";
+"IMAGE"="圖像";
 "Remove from server"="從服務器中刪除";
 "Delete record"="刪除記錄";
 "KEY_AGE_MAXIMUM"="最大年齡";
@@ -195,6 +196,10 @@
 "Please enable your phone's Location Services. This can be located in Settings > Privacy > Location Services"="請啟用您手機的定位服務。具體操作可以在 設置>隱私>定位服務 中完成";
 "Uploading..."="正在上傳...";
 "No Connection"="沒有連接";
+"Please allow this application to access your Location Services. This can be located in Settings > Privacy > Location Services"="請您允許本應用程序使用定位服務。 操作可以這樣完成： 設置 > 隱私 > 定位服務";
+"Location Services Not Allowed"="拒絕定位服務";
+"Location Services Restricted"="位置服務受到限制";
+"The record has been saved in the outbox and will get uploaded to the server when the Internet connectivity has been restored"="記錄已保存在發件箱中，在互聯網連接恢復後將上傳到服務器";
 "Valid Age is between 0 to 120"="輸入的年齡應介於0-120歲之間";
 "Invalid Age"="輸入年齡無效";
 "Invalid Age Range"="輸入年齡的範圍無效";
@@ -211,6 +216,7 @@
 "Empty Username Field"="輸入的用戶名是空的";
 "Empty Password Field"="輸入的密碼是空的";
 "Try Again"="再試壹次";
+"Agree"="同意";
 "Logging In..."="正在在登錄...";
 "Logging Out..."="正在退出..";
 "You are now logged in as %@"="登錄成功，用戶名 %@";
@@ -218,10 +224,12 @@
 "Please check your e-mail for further instructions"="請檢查您的電子郵件以獲取進壹步的說明";
 "Unable to Update Event List"="無法更新事件列表";
 "Unable To Register"="無法註冊";
+"Locating your location..."="正在查找您所在的位置...";
 "Thank you for registering. An e-mail with an activation link will be sent to you shortly. Once you activate your account, you may log in through the app."="感謝您註冊。我們將很快發送帶有激活鏈接的電子郵件給您。壹旦激活帳戶後，您就可以通過應用程序登錄。";
 "Unable To Log In"="無法登入";
 "Forgot Password"="忘記密碼";
 " Logged in as %@"="登錄為 %@";
+" Login"="登錄";
 "STRING_PASSWORD_GUIDE"="密碼必須遵守以下規則：\n1. 密碼的最小長度為8個字符. \n2. 密碼的最大長度為16個字符. \n3. 必須至少有一個大寫字母. \n4. 必須至少有一個小寫字符.\n5. 必須至少有一個數字（0-9).\n6. 密碼不能包含您的用戶名.";
 "USER INFORMATION"="用戶信息";
 "First Name"="名";
@@ -240,6 +248,7 @@
 "These passwords don't match. Try again?"="這些密碼不正確。再試壹次？";
 "Registering..."="正在註冊...";
 "RESET PASSWORD"="重設密碼";
+"Login"="登錄";
 "Age: ?"="年齡: ?";
 "Age: %@"="年齡: %@";
 "Age: %@-%@"="年齡: %@-%@";
@@ -283,14 +292,11 @@
 "Success"="成功";
 "Privacy Statement"="隱私聲明";
 "insufficient permission to revise this record"="沒有足夠的權限修改此記錄";
+"You are about to delete this record from your device"="您即將從您的設備中刪除此記錄";
 "If you reported the person, you may delete it from the People Locator server."="如果該人員是您報告的，您有權從PEOPLE LOCATOR服務器中刪除該人員。";
 "The record has been deleted"="記錄已刪除";
 "Successfully Deleted"="成功刪除";
 "Save draft"="存儲草稿";
-"NSCameraUsageDescription"= "Reunite 要使用相機";
-"NSLocationAlwaysUsageDescription"="我們要使用您的位置";
-"NSLocationWhenInUseUsageDescription"="我們要使用您的位置";
-"NSPhotoLibraryUsageDescription"="Reunite 要訪問照片";
 "Internet Appears Offline"="互聯網顯示離線";
 "Invalid UUID"="無效的UUID";
 "Invalid Event"="無效的事件";
@@ -328,3 +334,8 @@
 "Something Else"="其他的東西";
 "Only Pets"="只有寵物";
 "Buddy Number"="ID";
+"Unknown"="未知";
+"NSCameraUsageDescription"= "Reunite 要使用相機";
+"NSLocationAlwaysUsageDescription"="我們要使用您的位置";
+"NSLocationWhenInUseUsageDescription"="我們要使用您的位置";
+"NSPhotoLibraryUsageDescription"="Reunite 要訪問照片";
