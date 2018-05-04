@@ -13,9 +13,15 @@
 "Updated at %@ (%@)"="اپ ڈیٹ %@ (%@)";
 "Just Now"=" ابھی ابھی ";
 "About"=" کے بارے میں ";
+"Would you like to report an Animal or Person"="Would you like to report an Animal or Person"
+"Person"="Person";
+"Animal"="Animal";
+"Consider NCMEC(www.missingkids.com),If you would like to report under age 18."="NCMEC (www.missingkids.com) پر غور کریں، اگر آپ 18 سال سے کم عمر کی رپورٹ کرنا چاہتے ہیں";
+"Proceed"="Proceed";
 "%@ is an R&D project of the Lister Hill National Center for Biomedical Communications, a division of the National Library of Medicine, part of the National Institutes of Health."="%@® بایڈڈیکل مواصلات کے لئے لیزر ہیل نیشنل سینٹر کے آر اینڈ ڈی پروجیکٹ ہے، نیشنل لائبریری آف نیشنل لائبریری کا ایک ڈویژن، صحت کے نیشنل انسٹی ٹیوٹ آف جز.";
 "%@, %@, and the LOST PERSON FINDER Design are trademarks of the U.S. Department of Health & Human Services (HHS)."="%@, %@®, اور لاپتہ افراد کے پنڈرر ڈیزائن کے بارے میں امریکی محکمہ صحت اور انسانی خدمات کے ٹریڈ مارک ہیں (HHS).";
 "Privacy"=" پرائیویسی ";
+"Email"="Email";
 "Burden"=" لدنا ";
 "Burden Statement: %@"=" بڈن بیان: %@";
 "Updating Event List..."=" ایونٹ کی فہرست کو اپ ڈیٹ کرنا...";
@@ -26,6 +32,7 @@
 "STRING_BURDEN_STATEMENT"="معلومات کے اس مجموعہ کے لئے پبلک رپورٹنگ بوجھ کا اندازہ ہر ایک فی منٹ 3 منٹ فی جواب ہے. اس تخمینہ میں ہدایات کا جائزہ لینے، جمع کرنے، اور ڈیٹا داخل کرنے کے لئے وقت شامل ہے. ایک ایجنسی ممکن نہیں ہوسکتا ہے یا اسپانسر کرسکتا ہے، اور کسی شخص کو جواب دینے کی ضرورت نہیں ہے، معلومات کا مجموعہ جب تک یہ فی الحال درست OMB کنٹرول نمبر دکھاتا ہے. اس بوجھ کا تخمینہ یا اس بوجھ کو کم کرنے کے لئے تجاویز سمیت اس بوجھ کا اندازہ یا کسی بھی دوسرے پہلو کے بارے میں تبصرے بھیجیں، پر: این آئی ایچ، پروجیکٹ کلیئرنس برانچ، 6705 راکٹ ڈرائیو، ایم ایس سی 7974، بیتیسا، ایم ڈی 20892-7974، اے ٹی ٹی این: پی آر اے (0925) -0612). مکمل فارم کو اس پتے پر واپس نہ لو";
 "Burden & Privacy"=" برڈن اور پرائیویسی ";
 "Burden Statement"=" بڈن بیان ";
+"Privacy Statement"=" رازداری کا بیان ";
 "STRING_PRIVACY_STATEMENT"="امریکی نیشنل لائبریری آف میڈیکل (این ایل ایم)، امریکہ کے ہیلتھ اینڈ انسانی خدمات کے سیکشن میں اس کے مشن میں صحت کی معلومات کی فراہمی کو بہتر بنانے کے لئے مواصلاتی نظام کی ٹیکنالوجی کی ترقی ہے. ریونائٹ ایپ https://pl.nlm.nih.gov پر دستیاب این ایل ایم کے پی پی لوکٹر (PL) سروس میں لوگوں کو لاپتہ (اور پایا) کے بارے میں لازمی ذاتی معلومات اپ لوڈ کرنے کے لئے تیار کیا گیا ہے. اس خدمت کو بعد میں ہونے والے خاندان کے خاندان کے حصول میں معاونت کے ساتھ ساتھ اس طرح کے آلات کی افادیت کا مطالعہ کرنے کے لئے واضح مقصد کے لئے فراہم کی جاسکتی ہے. PL سروس اور کھوئے ہوئے شخص فائنر پروجیکٹ پر مزید معلومات http: //lpf.nlm.nih.gov پر پایا جا سکتا ہے \ n \ n نوٹ: \ n • اس ایپ کا استعمال کرتے ہوئے معلومات کی فراہمی رضاکارانہ ہے. \ n • تمام جمع شدہ معلومات عوامی طور پر دستیاب کیا جا سکتا ہے. \ n اس آلے کے ذریعہ محفوظ کردہ ڈیٹا کو معتدل نہیں کیا جاسکتا ہے اور تمام مہمانوں کی طرف سے این ایل ایم کے PL ویب سائٹ پر تلاش کی جا سکتی ہے. \ n • اس ایپ کے اندر محفوظ کردہ ڈیٹا اس وقت خفیہ نہیں ہے. \ n • \ n • اس سائٹ کو تلاش کرنے کے لئے کوئی PL لاگ ان لازمی نہیں ہے. \ n • انفارمیشن اور انفرادی طور پر بھیجنے والے رابطے کی معلومات کی معلومات دوسرے پر تقسیم کی جا سکتی ہے. سرکاری ایجنسیوں یا دیگر اداروں کو کسی بھی آفت کے بعد دوبارہ بدولت کی کوششوں میں مدد ملتی ہے جہاں امریکی حکومت کی امدادی کوششیں پیش کی جا رہی ہیں. \ n • لاپتہ فرد کے اعداد و شمار کیلئے ایک آفت کے بعد فراہم کی گئی ہے: اگر آپ اس شخص سے سنتے ہیں تو آپ کے بارے میں فکر مند ہیں PL ویب سائٹ پر ان کی حیثیت کو اپ ڈیٹ کرنے کے لئے حصے. \ n • ایپلیکیشن صارف کے محل وقوع کو ٹریک نہیں کرتا \ n • صارف کے محل وقوع کا پتہ لگانے کے لئے واضح صارف کی کارروائی پر پتہ چلا ہے.";
 "Review This App"=" اس اپلی کیشن کا جائزہ لیں ";
 "GLOBAL_KEY_SETTINGS_FACE_DETECTION" =" چہرہ کا پتہ لگانا ";
@@ -132,6 +139,7 @@
 "Hybrid"=" ہائبرڈ ";
 "IMAGE"=" تصویر ";
 "The record has been saved in the outbox and will get uploaded to the server when the Internet connectivity has been restored"=" آؤٹ باکس میں ریکارڈ محفوظ کر دیا گیا ہے اور انٹرنیٹ کنیکٹوٹی کو بحال ہونے پر سرور پر اپ لوڈ کردی جائے گی ";
+"No Connection"=" کوئی رابطہ نہیں ";
 "Fetching the latest record.."=" تازہ ترین ریکارڈ لے رہا ہے..";
 "GPS reported by the user"=" صارف کی طرف سے GPS کی اطلاع دی گئی ہے ";
 "Confirm"=" تصدیق کریں ";
@@ -145,6 +153,7 @@
 "Record removed"=" ریکارڈ ہٹا دیا گیا ";
 "If you reported the person, you may delete it from the %@ server."=" اگر آپ نے شخص کو اطلاع دی ہے تو، آپ اسے حذف کر سکتے ہیں %@ سرور.";
 "No"=" نہیں ";
+"IMAGE"=" تصویر ";
 "Remove from server"=" سرور سے ہٹا دیں ";
 "Delete record"=" ریکارڈ حذف کریں ";
 "KEY_AGE_MAXIMUM"=" زیادہ سے زیادہ عمر ";
@@ -187,6 +196,10 @@
 "Please enable your phone's Location Services. This can be located in Settings > Privacy > Location Services"=" برائے مہربانی اپنے فون کی مقام کی خدمات کو فعال کریں. یہ ترتیبات> پرائیویسی> مقام کی خدمات میں واقع ہوسکتا ہے ";
 "Uploading..."=" اپ لوڈ کرنا...";
 "No Connection"=" کوئی رابطہ نہیں ";
+"Please allow this application to access your Location Services. This can be located in Settings > Privacy > Location Services"=" برائے مہربانی اس ایپلی کیشن کو آپ کی مقام کی خدمات تک رسائی حاصل کرنے کی اجازت دیں. یہ ترتیبات> پرائیویسی> مقام کی خدمات میں واقع ہوسکتا ہے ";
+"Location Services Not Allowed"=" مقام کی خدمات اجازت نہیں دی جاتی ہے ";
+"Location Services Restricted"=" مقام کی خدمات محدود ہے ";
+"The record has been saved in the outbox and will get uploaded to the server when the Internet connectivity has been restored"=" آؤٹ باکس میں ریکارڈ محفوظ کر دیا گیا ہے اور انٹرنیٹ کنیکٹوٹی کو بحال ہونے پر سرور پر اپ لوڈ کردی جائے گی ";
 "Valid Age is between 0 to 120"=" درست عمر 0 سے 120 کے درمیان ہے";
 "Invalid Age"=" غلط عمر ";
 "Invalid Age Range"=" غلط عمر کی حد ";
@@ -211,6 +224,7 @@
 "Please check your e-mail for further instructions"=" مزید ہدایات کے لئے براہ مہربانی اپنا ای میل چیک کریں ";
 "Unable to Update Event List"=" ایونٹ کی فہرست کو اپ ڈیٹ کرنے میں ناکام ";
 "Unable To Register"=" رجسٹر کرنے میں ناکام ";
+"Locating your location..."=" اپنے مقام کا پتہ لگانا...";
 "Thank you for registering. An e-mail with an activation link will be sent to you shortly. Once you activate your account, you may log in through the app."=" رجسٹریشن کے لئے آپ کا شکریہ. ایک فعال کاری کا لنک کے ساتھ ایک ای میل آپ کو جلد ہی بھیج دیا جائے گا. ایک بار جب آپ اپنا اکاؤنٹ چالو کرتے ہیں تو، آپ ایپ کے ذریعے لاگ ان کرسکتے ہیں.";
 "Unable To Log In"=" لاگ ان کرنے میں ناکام ";
 "Forgot Password"=" پاسورڈ بھول گے ";
@@ -278,14 +292,11 @@
 "Success"=" کامیابی ";
 "Privacy Statement"=" رازداری کا بیان ";
 "insufficient permission to revise this record"=" اس ریکارڈ کو نظر انداز کرنے کی ناکام اجازت ";
+"You are about to delete this record from your device"=" آپ اپنے ریکارڈ سے اپنے ریکارڈ کو حذف کرنے کے بارے میں ہیں ";
 "If you reported the person, you may delete it from the People Locator server."=" اگر آپ شخص کو اطلاع دیتے ہیں تو، آپ اسے لوک لوکٹر سرور سے خارج کر سکتے ہیں.";
 "The record has been deleted"=" ریکارڈ خارج کردیا گیا ہے ";
 "Successfully Deleted"=" کامیابی سے خارج کر دیا گیا ";
 "Save draft"=" مسودے کو بچانے کے ";
-"NSCameraUsageDescription"="ریونیو کیمرے تک رسائی حاصل کرنا چاہتی ہے"; 
-"NSLocationAlwaysUsageDescription"="ہم آپ کا مقام استعمال کرتے ہیں"; 
-"NSLocationWhenInUseUsageDescription"="ہم آپ کا مقام استعمال کرتے ہیں"; 
-"NSPhotoLibraryUsageDescription"="ریونیو تصویر تک رسائی حاصل کرنا چاہتی ہے"; 
 "Internet Appears Offline"="انٹرنیٹ آف لائن ظاہر کرتا ہے"; 
 "Invalid UUID"="غلط UUID"; 
 "Invalid Event"="غلط واقعہ"; 
@@ -314,6 +325,7 @@
 ": Offline"=": آف لائن ہے"; 
 "Unable to Activate"="چالو کرنے میں ناکام"; 
 "This app does not have access to your camera.You can enable access in Privacy settings.Settings>Privacy>Camera"="اس اپلی کیشن کو آپ کے کیمرے تک رسائی نہیں ہے. آپ پرائیویسی ترتیبات میں رسائی فعال کرسکتے ہیں. سٹنگز> پرائیویسی> کیمرے"; 
+"Your Account is Activated"="Your Account is Activated"
 "What would you like to Report"="آپ کو کیا اطلاع دینا پسند ہے"; 
 "Spam"="فضول کے"; 
 "Sexually Explicit"="جنسی طور پر واضح"; 
@@ -323,4 +335,7 @@
 "Only Pets"="صرف پالتو جانور"; 
 "Buddy Number"="دوست شناختی نمبر"; 
 "Goto safari"="سفاری پر جائیں";
-"Consider NCMEC(www.missingkids.com),If you would like to report under age 18."="NCMEC (www.missingkids.com) پر غور کریں، اگر آپ 18 سال سے کم عمر کی رپورٹ کرنا چاہتے ہیں";
+"NSCameraUsageDescription"="ریونیو کیمرے تک رسائی حاصل کرنا چاہتی ہے"; 
+"NSLocationAlwaysUsageDescription"="ہم آپ کا مقام استعمال کرتے ہیں"; 
+"NSLocationWhenInUseUsageDescription"="ہم آپ کا مقام استعمال کرتے ہیں"; 
+"NSPhotoLibraryUsageDescription"="ریونیو تصویر تک رسائی حاصل کرنا چاہتی ہے"; 
