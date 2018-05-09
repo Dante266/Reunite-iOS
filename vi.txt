@@ -334,7 +334,6 @@
 "Something Else"="Thứ gì khác";
 "Only Pets"="Chỉ có vật nuôi";
 "Buddy Number"="Số buddy";
-
 "Other"="KHÁC";
 "Enter your %@ credentials and tap on the Log In button. To register, tap on the Register button"="Nhập các chứng chỉ% @ của bạn và nhấn vào nút Đăng nhập. Để đăng ký, bấm vào nút Đăng ký";
 "NSCameraUsageDescription"="Reunite muốn truy cập Camera";
