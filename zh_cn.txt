@@ -21,7 +21,6 @@
 "%@ is an R&D project of the Lister Hill National Center for Biomedical Communications, a division of the National Library of Medicine, part of the National Institutes of Health."="%@ is an R&D project of the Lister Hill National Center for Biomedical Communications, a division of the National Library of Medicine, part of the National Institutes of Health.";
 "%@, %@, and the LOST PERSON FINDER Design are trademarks of the U.S. Department of Health & Human Services (HHS)."="%@, %@, and the LOST PERSON FINDER Design are trademarks of the U.S. Department of Health & Human Services (HHS).";
 "Privacy"="隐私";
-"Email"="Email";
 "Burden"="责任";
 "Burden Statement: %@"="责任声明: %@";
 "Updating Event List..."="正在更新事件列表...";
@@ -153,7 +152,6 @@
 "Record removed"="记录已删除";
 "If you reported the person, you may delete it from the %@ server."="如果您报告了此人，您可以从％@服务器中删除它。";
 "No"="否";
-"IMAGE"="图像";
 "Remove from server"="从服务器中删除";
 "Delete record"="删除记录";
 "KEY_AGE_MAXIMUM"="最大年龄";
