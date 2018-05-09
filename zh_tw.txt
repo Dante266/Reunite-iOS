@@ -21,7 +21,6 @@
 "%@ is an R&D project of the Lister Hill National Center for Biomedical Communications, a division of the National Library of Medicine, part of the National Institutes of Health."="%@ is an R&D project of the Lister Hill National Center for Biomedical Communications, a division of the National Library of Medicine, part of the National Institutes of Health.";
 "%@, %@, and the LOST PERSON FINDER Design are trademarks of the U.S. Department of Health & Human Services (HHS)."="%@, %@, and the LOST PERSON FINDER Design are trademarks of the U.S. Department of Health & Human Services (HHS).";
 "Privacy"="隱私";
-"Email"="Email";
 "Burden"="責任";
 "Burden Statement: %@"="責任聲明: %@";
 "Updating Event List..."="正在更新事件列表...";
