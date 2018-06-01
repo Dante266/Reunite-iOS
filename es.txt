@@ -190,7 +190,7 @@
 "Please long press the map to drop a pin on the desired location, in order to obtain the address."="Por favor haga presión continua sobre el mapa para marcar la ubicación deseada para obtener la dirección";
 "Locating your location…"="Encontrando …su Ubicación";
 "Location Services Restricted"="Location Services Restricted";
-"Your Location Services is Restricted. Restrictions settings can be located in Settings > General > Restriction > Location Services"="Su servicio de localización están restringido. La configuración de restricciones está ubicada en Ajustes> General> Restricción > Servicios de Localización";
+"Your Location Services is Restricted. Restrictions settings can be located in Settings > General > Restriction > Location Services"="Su servicio de localización está restringido. La configuración de restricciones está ubicada en Ajustes> General> Restricción > Servicios de Localización";
 "You are about to delete this record from your device"="You are about to delete this record from your device";
 "Location Services Disabled"="Servicios de Localización Desactivados";
 "Please enable your phone's Location Services. This can be located in Settings > Privacy > Location Services"="Por favor active los Servicios de Localización de su dispositivo. Esto se encuentra bajo el menú de Ajustes > Privacidad > Servicios de Localización";
@@ -227,7 +227,7 @@
 "Locating your location..."="Localización de su ubicación";
 "Thank you for registering. An e-mail with an activation link will be sent to you shortly. Once you activate your account, you may log in through the app."="Gracias por registrarte. Un e-mail con un enlace de activación será enviado a la brevedad. Una vez que haya activado su cuenta, puede conectarse a través de la aplicación.";
 "Unable To Log In"="Incapaz de iniciar sesión";
-"Forgot Password"="Olvido contraseña";
+"Forgot Password"="Olvido la contraseña";
 " Logged in as %@"=" Conectado como %@";
 " Login"=" Iniciar sesión";
 "STRING_PASSWORD_GUIDE"="Las contraseñas deben cumplir con las siguientes reglas :\n1. La longitud mínima de la contraseña es de 8 caracteres.\n2 . La longitud máxima de la contraseña es de 16 caracteres.\n3. Debe tener al menos un carácter en mayúscula .\n4. Debe tener al menos un carácter en minúsculas .\n5. Debe tener al menos un número ( 0-9 ) .\n6. La contraseña no puede contener su nombre de usuario.";
@@ -285,14 +285,14 @@
 "Report from %@: %@ %@, %@"="Informe de %@: %@ %@, %@";
 "Comment #%i Image"="Imagen #%i Comentario";
 "* This page is accessible through About section"="* Esta página es accesible a través de la sección Acerca De";
-"You are about to delete this record from PL server"="Estás a punto de eliminar este registro de PL servidor";
+"You are about to delete this record from PL server"="Estás a punto de eliminar este registro del servidor PL";
 "Unspecified"="Sin especificar";
 "Searching for Faces"="Buscando Caras";
 "You are now logged out"="Ahora estás desconectado";
 "Success"="Éxito";
 "Privacy Statement"="Declaración de privacidad";
 "insufficient permission to revise this record"="permisos insuficientes para revisar este registro";
-"You are about to delete this record from your device"="Estás a punto de eliminar este registro desde su dispositivo";
+"You are about to delete this record from your device"="Estás a punto de eliminar este registro de su dispositivo";
 "If you reported the person, you may delete it from the People Locator server."="Si reportó la persona , puede eliminarlo del servidor";
 "The record has been deleted"="el registro se ha suprimido";
 "Successfully Deleted"="Se han eliminado las";
@@ -314,10 +314,10 @@
 "Invalid email Address"="Correo electrónico Inválido";
 "User already exists with Provided email Address"="Ya existe un usuario con esa dirección de correo electrónico";
 "Invalid Email address"="Correo electrónico Inválido";
-"Password must be 8-16 length,Have Uppercase & Lowercase & Number"="La contraseña de ser de 8-16 letras de largo, e incluir letras en Minúsculas y Mayúsculas y Números";
+"Password must be 8-16 length,Have Uppercase & Lowercase & Number"="La contraseña debe ser de 8-16 letras de largo, e incluir letras Minúsculas, Mayúsculas y Números";
 "Unable to register. Please try again or contact us in the About page." ="No es posible establecer el registro. Por favor intente mas tarde o contáctenos a través del la página de Acerca de.";
 "User account is inactive; user must confirm email address"="El usuario está inactivo; el usuario debe confirmar su correo electrónico";
-"Exceeded authentication failure limit"="Ha pasado el número de intentos de autenticación permitidos";
+"Exceeded authentication failure limit"="Ha excedido el número de intentos de autenticación permitidos";
 "Bad Username and Password"="Nombre de Usuario o Contraseña no válidos";
 "Invalid confirmation code"="Código de confirmación incorrecto";
 "Unknown name"="Nombre desconocido";
@@ -326,7 +326,7 @@
 "Unable to Activate"="La Activación no es Posible";
 "This app does not have access to your camera.You can enable access in Privacy settings.Settings>Privacy>Camera"="Esta applicación no tiene acceso a su cámara. El acceso a la cámara se activa en el menú de los Ajustes del dispositivo.";
 "Your Account is Activated"="Su cuenta está activada";
-"What would you like to Report"="Que desea informar";
+"What would you like to Report"="Que desea informar?";
 "Spam"="Basura";
 "Sexually Explicit"="Contenido Sexual";
 "Hate Speech"="Contenido con odio";
